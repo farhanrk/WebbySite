@@ -1,4 +1,3 @@
-# WebbySite
+# Website
 
-idk what I am doing
-asf
+learning HTML and making my own porfolio website
